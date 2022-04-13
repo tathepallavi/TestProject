@@ -1,0 +1,4 @@
+2022-03-14 00:52:39,528 [main] INFO Log4J - Chrome driver instance open
+2022-03-14 00:52:39,718 [main] INFO Log4J - window maximised
+2022-03-14 00:52:39,732 [main] INFO Log4J - implicit wait given
+2022-03-14 00:53:56,980 [main] INFO Log4J - application launched
